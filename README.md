@@ -89,12 +89,7 @@ Built by a router tinkerer with zero programming background.
 Icon © 2026 MeteorNOX — MIT License
 图标素材 © 2026 MeteorNOX，MIT 协议
 Unofficial · 非官方项目，与 DeepSeek 无关联
-```
 
-（最后那句自述不想要的话，把 `AboutForm` 里那两行 `Add(...)` 删掉重编译即可。
-末三行是**图标素材的署名，属于 MIT 协议要求的版权声明，请保留**。）
-
----
 
 ## 图标素材与授权
 
@@ -135,16 +130,6 @@ MIT 允许「使用、复制、修改、合并、发布、再授权、出售」�
 ```
 Copyright (c) 2026 Feng-Studio0595
 ```
-
-简单说就是：**随便用**——可以拿去改、拿去发、甚至拿去卖，**唯一的要求是保留版权声明和协议全文**。
-
-> **注意区分两份协议**：本仓库里有两个 MIT。
-> - `LICENSE` —— **本项目的代码**（`NetSwitcher.cs`、`tools/make-icon.cs`、`app.manifest`）
-> - `THIRD-PARTY-NOTICES.md` —— **图标素材**，版权属于 MeteorNOX，另有其人
->
-> 两份都要保留，别只留一个。
-
----
 
 ## 怎么用
 
