@@ -113,7 +113,9 @@ Built by a router tinkerer with zero programming background.
 Icon © 2026 MeteorNOX — MIT License
 图标素材 © 2026 MeteorNOX，MIT 协议
 Unofficial · 非官方项目，与 DeepSeek 无关联
+```
 
+---
 
 ## 图标素材与授权
 
