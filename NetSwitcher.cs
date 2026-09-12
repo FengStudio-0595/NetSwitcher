@@ -1169,7 +1169,7 @@ namespace NetSwitcher
         /// </summary>
         public void FillDemoValues()
         {
-            txtV4Ip.Text = "192.168.100.200";
+            txtV4Ip.Text = "192.168.1.100";
             cmbMask.Text = "255.255.255.255";
             txtV4Gw.Text = "192.168.1.1";
             txtDns1.Text = "114.114.115.115";
